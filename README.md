@@ -1,2 +1,2 @@
 # treinamento
-Repositório para treinamento
+> Repositório para treinamento git e github
